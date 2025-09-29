@@ -37,11 +37,15 @@ The chatbot’s knowledge comes from:
 ---
 
 ## 📸 Snapshots
-![Chatbot Example](https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/chat1.png)
-![Chatbot Example](https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/chat2.png)
-![Chatbot Example](https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/chat3.png)
-![Chatbot Example](https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/chat4.png)
-![Chatbot Example](https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/config.png)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/f.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/ff.png" width="48%" />
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/fff.png" width="48%" />
+</p>
+<img src="https://raw.githubusercontent.com/sumudu-k/KFC-Sri-Lanka-Chatbot-AI/refs/heads/main/Snapshots%20%F0%9F%93%B8/config.png" width="96%" />
 
 
 
